@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(backstreet_boys)
   
-  aj_mclean = backstreet_boys.shift 
+   = backstreet_boys.shiftaj_mclean 
 end
 
 def retrieve_element_from_index(array, index_number)
