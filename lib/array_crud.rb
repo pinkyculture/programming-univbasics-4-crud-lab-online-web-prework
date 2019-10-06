@@ -21,7 +21,7 @@ def remove_element_from_end_of_array(array)
   aj_mclean = array.pop
 end
 
-def remove_element_from_start_of_array(poop)
+def remove_element_from_start_of_array()
   
   aj_mclean = poop.shift 
 end
