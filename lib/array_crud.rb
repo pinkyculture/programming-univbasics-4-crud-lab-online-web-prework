@@ -16,9 +16,9 @@ def add_element_to_start_of_array(array, element)
  array.unshift(element)
 end
 
-def remove_element_from_end_of_array(array)
+def remove_element_from_end_of_array(poop)
 
-  aj_mclean = array.pop
+  aj_mclean = poop.pop
 end
 
 def remove_element_from_start_of_array(array)
