@@ -16,14 +16,14 @@ def add_element_to_start_of_array(array, element)
  array.unshift(element)
 end
 
-def remove_element_from_end_of_array(poop)
+def remove_element_from_end_of_array(array)
 
-  aj_mclean = poop.pop
+  aj_mclean = array.pop
 end
 
-def remove_element_from_start_of_array(array)
+def remove_element_from_start_of_array(poop)
   
-  aj_mclean = array.shift 
+  aj_mclean = poop.shift 
 end
 
 def retrieve_element_from_index(array, index_number)
